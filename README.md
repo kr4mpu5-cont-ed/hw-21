@@ -7,14 +7,14 @@ Create a MERN Google Books Search app using components, helper/util functions, a
 ## Acceptance Criteria
 
 User can:
-* [ ] view books based on query
+* [x] view books based on query
 * [ ] save books to review later
 * [ ] save books to purchase later
 
 At a minimum, uses:
-* [ ] React
-* [ ] Node
-* [ ] Express
+* [x] React
+* [x] Node
+* [x] Express
 * [ ] MongoDB
 
 ## Submission on BCS
